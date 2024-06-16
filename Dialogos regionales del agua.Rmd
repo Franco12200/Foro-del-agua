@@ -1,0 +1,26 @@
+---
+title: Dialogos regionales del agua
+authors:
+  - name: Orlandi Franco
+    email: franco.orlandi@hotmail.com
+  - name: Negri Alesio
+    email: alesgamernegri@gmail.com
+  - name: Paura Fabrizio
+    email: fabri.paura@gmail.com
+  
+output: rticles::arxiv_article
+---
+
+# Introduction
+
+
+La agroindustria en América enfrenta desafíos de sostenibilidad y cambio climático. Es crucial equilibrar la producción eficiente y el respeto al medio ambiente para asegurar la seguridad alimentaria y el acceso al agua potable. El IICA fomenta la cooperación y prácticas agrícolas sostenibles, destacando la necesidad de consensos para un futuro equitativo y sostenible.
+
+# Foro del agua
+
+
+Arranca hablando de América, de la agroindustria. Habla sobre producir alimentos en armonía con la naturaleza, seguridad alimentaria, el cambio climático. Producción, consumo y comercio. Importancia del cambio climático. Generación de políticas de desarrollo alimenticio contra la inseguridad y el hambre. Avanzar hacia una agricultura con conocimientos. Iica tiende puentes entre urbano y rural, coopera. Una mirada desde américa, puertas abiertas. Reconocida desde agencia climática. Se hace en Costa Rica. Impulsa plantación de árboles, y esta contra la emisión de gases de efecto invernadero.  Derecho humano al agua y saneamiento. Habla de la falta de agua y saneamiento en la población, también sobre el bajo de nivel de los ríos. Peligro de las aguas residuales. La señora hablo de una comunidad y los políticos establecieron agua en la comunidad, también habla del rol de la mujer. Importancia de consensos para mejorar las relaciones y mejorar la distribución del agua. Diálogos de cara al foro mundial del agua. 
+
+
+
+
